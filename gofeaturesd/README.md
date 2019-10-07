@@ -1,11 +1,12 @@
 # ggexampled
 
 Concepts
-
+  - basic types
   - type inference
   - interface {}
   - switch i.(type)
   - String formatting
+  - runes
   
 Introduction material:
 
@@ -17,6 +18,7 @@ Introduction material:
 - tour.golang.org -> Basics > zero values
 - tour.golang.org -> Methods and interfaces  > type switches
 - tour.golang.org -> Methods and interfaces  > type assertions
+- https://codelike.pro/reverse-a-string-in-go/
 
 Task:
 

@@ -33,7 +33,7 @@ Concepts:
   - https://gobyexample.com/functions
 
 Tasks:
-- Wrap some (triuvial) business function with a proper test, exampleTest, benchmarkTest and documentation.
+- Wrap some (trivial) business function with a proper test, exampleTest, benchmarkTest and documentation.
 - Try out all the CLI options listed.
 
  Further reading:

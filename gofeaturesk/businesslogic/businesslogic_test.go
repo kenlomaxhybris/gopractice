@@ -1,6 +1,6 @@
 package businesslogic
 
-// Here's a basic interface for geometric 3d shapes, with two nethods: "volume", "surfacearea"
+// Here's a basic interface for geometric 3d shapes, with two methods: "volume", "surfacearea"
 
 // For our example we'll implement this interface on
 // `sphere` and `cuboid` types.

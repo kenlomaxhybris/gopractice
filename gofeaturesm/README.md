@@ -9,7 +9,7 @@ Introduction material:
 - tour.golang.org -> Concurrency  > channels
 - https://gobyexample.com/channels
 - https://golang.org/doc/effective_go.html#channels
-- Run: go get github.com/kenlomaxhybris/GoLunchTalk and walk thru examples
+- go get github.com/kenlomaxhybris/GoLunchTalk , and walk thru examples
 
 Task:
 - Take and rewrite some channel patterns with Example Test(s)

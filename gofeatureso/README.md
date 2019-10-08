@@ -20,7 +20,6 @@ Introduction material:
 
 Task:
 - Take and rewrite some of those above as Example Tests
-- Identify in Space Invaders some of those ideas from above
 
 Further reading (for all channel steps)
 - Space Invaders with GoRoutines https://github.com/kenlomaxhybris/spaceInvadersWithGoRoutines

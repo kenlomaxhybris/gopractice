@@ -8,6 +8,7 @@ Concepts
 
 Introduction material:
 - tour.golang.org -> Concurrency  > buffered channels
+- tour.golang.org -> Concurrency  > Default Selection
 - https://gobyexample.com/channel-buffering
 - https://gobyexample.com/non-blocking-channel-operations
 - https://gobyexample.com/worker-pools

@@ -24,6 +24,7 @@ Introduction material:
   - tour.golang.org -> Flow control  > switch evaluation order
   - tour.golang.org -> Flow control  > switch
   - https://yourbasic.org/golang/iota/
+  - https://golang.org/doc/effective_go.html#constants
 
 Tasks:
 - Write business logic to satsify ExampleGreetings, using 

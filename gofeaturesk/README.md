@@ -13,6 +13,7 @@ Introduction material:
 - tour.golang.org -> Methods and interfaces  > interface values with nil
 - tour.golang.org -> Methods and interfaces  > interface values
 - tour.golang.org -> Methods and interfaces  > empty interface
+- tour.golang.org -> Methods and interfaces  > stringers
 - https://gobyexample.com/interfaces
 
 Task:

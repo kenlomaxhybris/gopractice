@@ -1,13 +1,12 @@
-# ggexamplec
+
+# gofeaturesb
 
 Concepts
-
   - multiple returns
   - basic errors
-  - sub tests t.Run and why/when to use it
+  - sub tests t.Run and why/when to use them
 
 Introduction material:
- 
   - tour.golang.org -> Basics  > multiple results
 
 Task:
@@ -16,7 +15,6 @@ Task:
 
 
 Further reading:
-
   - https://golang.org/pkg/testing/
 
   

@@ -4,7 +4,7 @@ Concepts:
 
   - Go Test Framework
   -- Tests and t.Error
-  -- ExampleXXX : go test -v -cover -race
+  -- ExampleXXX : go test ./... -v -cover -race
   -- BenchmarkXXX: go test -bench=.
   -- Test coverage, 
   -- Test racing conditions

@@ -26,7 +26,6 @@ func TestGreetings(t *testing.T) {
 		g := Greetings(England, "Alexander", "Boris", "de Pfeffel", "Johnson")
 		compare("Greetings Alexander Boris de Pfeffel Johnson!", g, t)
 	})
-
 }
 
 func ExampleGreetings() {

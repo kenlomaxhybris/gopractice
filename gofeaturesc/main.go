@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/kenlomaxhybris/golangguineapigs/ggexample0/businesslogic"
+	"github.com/kenlomaxhybris/gopractice/gofeaturesa/businesslogic"
 )
 
 func main() {

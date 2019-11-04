@@ -25,14 +25,14 @@ func greetings(names ...string) string {
 func Greetings(country int, names ...string) string {
 	switch country {
 	case France:
-		return "Bonsieur" + greetings(names...)
+		return "Bonsieur " + greetings(names...)
 	case America:
 		if names[0] == "Donald" {
-			return "Up yours" + greetings(names...)
+			return "Up yours " + greetings(names...)
 		} else {
-			return "Howdi" + greetings(names...)
+			return "Howdi " + greetings(names...)
 		}
 	default:
-		return "Greetings" + greetings(names...)
+		return "Greetings " + greetings(names...)
 	}
 }

@@ -1,4 +1,5 @@
-# ggexampleb
+
+# gofeaturesc
 
 Concepts:
 
@@ -7,6 +8,7 @@ Concepts:
   - iota
   - if
   - if else
+  - variadic functions
   - range
   - switch (default)
   - t.Run benefits 
@@ -27,11 +29,16 @@ Introduction material:
   - https://golang.org/doc/effective_go.html#constants
 
 Tasks:
-- Write business logic to satsify ExampleGreetings, using 
-- subtests, switch, if, constants, variadic function, range ..
+- Write business logic to satisfy ExampleGreetings, using 
+	- subtests, 
+	- switch, 
+	- if, 
+	- constants, 
+	- iota
+	- variadic function, 
+	- range ..
 
 
 Further reading:
-
   - https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world
   - tour.golang.org -> Flow control  > switch with no condition

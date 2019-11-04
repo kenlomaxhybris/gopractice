@@ -1,11 +1,11 @@
-# ggexampled
+# gofeaturesd
 
 Concepts
   - basic types
   - type inference
   - interface {}
   - switch i.(type)
-  - String formatting
+  - String formatting with %T, %#v and %v
   - runes
   
 Introduction material:

@@ -14,7 +14,8 @@ Introduction material:
 - tour.golang.org -> More types > struct pointers
 - tour.golang.org -> More types > pointers
 - https://gobyexample.com/structs
-- 
+- https://github.com/golang/go/wiki/TableDrivenTests
+
 Tasks:
 - implement the example test
 - write a test with test tables
